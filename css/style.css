@@ -45,8 +45,8 @@ img{
 }
 
 #navbar li.current a, #navbar a:hover{
-  color:#56a79a;
-  border-bottom: 3px solid #56a79a;
+  color:#ff0000;
+  border-bottom: 3px solid #000000;
   padding-bottom:3px;
 }
 
@@ -151,7 +151,7 @@ img{
 
 /* FOOTER */
 #main-footer{
-  background:#56a79a;
+  background:#ff0000;
   color:#fff;
 }
 
@@ -172,7 +172,7 @@ img{
 }
 
 .services ul li:nth-child(even){
-  background:#56a79a;
+  background:#ff0000;
   color:#fff;
 }
 
